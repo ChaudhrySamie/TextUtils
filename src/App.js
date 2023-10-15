@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Navbar
-        link={{ link1: "Custom/Web", link2: "Home", link3: "About" }}
+        link={{ link1: "TextUtils", link2: "Home", link3: "About" }}
       />
       
       
