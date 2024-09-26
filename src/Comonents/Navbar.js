@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Navbar({ link}) {
+export default function Navbar({link}) {
   return (
     <>
-      <body>
+      
         <nav
           className="navbar navbar-expand-lg navbar-dark bg-dark"
           
@@ -54,7 +54,7 @@ export default function Navbar({ link}) {
           </div>
         </nav>
         
-      </body>
+     
     </>
   );
 }
